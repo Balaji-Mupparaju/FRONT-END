@@ -1,12 +1,18 @@
 <html>
 <head>
-  <style>
+  <style text="text/css">
+    h1{
+      background-color:"black"
+      font-family="cursive"
+      color="white"
+    }
   </style>
 </head>
 <body>
   <pre>
     <h1>            WE SHARE              </h1>
-    <p> LETS START OUR NEW JOUNERYS TO-GETHER💖  </P>
+    <p>       LETS START OUR NEW JOUNERYS TO-GETHER💖  </P>
   </pre>
+  <img src="we share.png" alt=" not found">
 </body>
 </html>
